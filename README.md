@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Armstrong Dalang</h1>
+<h1 align="center">Hey 👋, I'm AD </h1>
 <p align="center">🌐 Web3 Enthusiast | 🧑🏽‍💻 Fullstack Web Devpr | 🥁 Drummer | Nigeria</p>
 
 ---
@@ -49,7 +49,7 @@
 
 ### 📫 Let's Connect
 
-- 📧 armstrongbitrus51@gmail.com  
+- 📧 nandomdalang@gmail.com  
 - 🐦 [Twitter/X](https://x.com/AD_Metax)  
 - 🔗 [My Web3 Portfolio (coming soon)]()
 
